@@ -139,3 +139,4 @@ main()
     printf("\nThroughput = no of procees / total burst time  = %d/%d = %.2f 1/ms",n,tbt,tp);
     printf("\nCPU Utililazation=((CPU busy time + CPU idel time)/CPU busy time)*100= ((%d+%d)/%d)*100 = %.2f percentage",tbt,ci,tbt,cut);
 }
+//
